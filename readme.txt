@@ -27,5 +27,6 @@ int main(){
 	for (int i=0;i<10;++i){
 		cout<<i<<endl;
 	}
+	cout<<"git is a "
 	return 0；
 }
