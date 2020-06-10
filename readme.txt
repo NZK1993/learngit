@@ -30,3 +30,4 @@ int main(){
 	cout<<"git is a "
 	return 0；
 }
+cout<<???<<endl;
